@@ -1,7 +1,6 @@
 **Institute of Business Administration (IBA), Karachi — Fall 2026**
 
-**Name:** Masroor Karim Golden | **ERP:** 35914 | **Section:** 101446 | **Instructor:** Dr. Syed Irfan Nabi
-**Course:** Introduction to Computer Applications
+**Name:** Masroor Karim Golden | **ERP:** 35914 | **Section:** 101446 | **Instructor:** Dr. Syed Irfan Nabi | **Course:** Introduction to Computer Applications
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
