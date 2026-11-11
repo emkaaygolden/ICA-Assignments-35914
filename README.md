@@ -1,4 +1,4 @@
-# 🎓 Introduction to Computer Applications (ICA) 
+**🎓 Introduction to Computer Applications (ICA)**
 **Institute of Business Administration (IBA), Karachi — Fall 2026**
 
 **Name:** Masroor Karim Golden | **ERP:** 35914 | **Section:** 101446 | **Instructor:** Dr. Syed Irfan Nabi
