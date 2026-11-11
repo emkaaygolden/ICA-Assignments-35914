@@ -8,8 +8,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-emerald?style=for-the-badge)
 
-> This repository contains my individual assignments for the Fall 2026 semester.
-
 ## 📖 Overview
 
 This repository (`ICA-Assignments-35914`) contains the individual assignments for my ICA Fall 2026 coursework at IBA Karachi.
