@@ -20,6 +20,9 @@ This repository (`ICA-Assignments-35914`) contains the individual assignments fo
 
 ```text
 📦 ICA-Assignments-35914
- ┣ 📂 Assignment_12     
- ┣ 📂 Assignment_13         
+ ┣ 📂 Assignment12     
+ ┣ 📂 Assignment13
+ ┣ 📂 Assignment14 (Data Analysis Activity)
+ ┣ 📂 Assignment15A
+ ┣ 📂 Assignment15B         
  ┗ 📜 README.md
